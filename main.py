@@ -19,7 +19,7 @@ def count_characters(file_path):
 def report(file_path):
     word_count = count_words(file_path)
     char_counts = count_characters(file_path)
-    print(f"---Begin report of {file_path} ---")
+    print(f"--- Begin report of {file_path} ---")
     print(f"{word_count} words found in the document")
     print("\n")
     for char, count in char_counts.items():
