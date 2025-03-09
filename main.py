@@ -25,7 +25,7 @@ def report(file_path):
             char = 'vertical tab'
         elif char == '\f':
             char = 'form feed'
-        print(f"The \'{char}\' character was found {count} times")
+        print(f"{char}: {count}")
     print("--- End report ---")
 
 
