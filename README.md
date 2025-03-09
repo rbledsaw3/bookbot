@@ -51,3 +51,4 @@ The application runs in a Debian-based container with Python 3.10.8 built from s
 -   Copying application code and data
 -   Setting up the runtime environment
 
+BookBot is my first [Boot.dev] (https://www.boot.dev) project!
